@@ -1,1 +1,20 @@
 ## MÓDULO HTML3 E CSS3 ##
+
+Neste módulo, foi possível conhecer a semântica do HTML5 e diversos conceitos para estilização com CSS3.
+
+
+
+
+Nos conteúdos apresentados para o CSS3, vimos diversos Fundamentos como:
+
+* Display
+* Flex-Direction
+* Flex-wrap
+* Flex-flow
+* Justify-content
+* Align-Items
+* Align-Content
+* Flex-grow
+* Flex-basis
+* Flex-shrink
+
