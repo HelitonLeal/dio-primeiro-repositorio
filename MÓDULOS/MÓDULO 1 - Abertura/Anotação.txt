@@ -1,0 +1,1 @@
+Neste módulo foi possível conhecer os Mentores da DIO, por meio de Live Inaugural; Além de ter acesso à conteúdos como Lógica de Programação e introdução ao Git/GitHub, com isso por meio de desafio do módulo, foi possível criar um primeiro repositório no GitHub para documentar todo o progresso deste Bootcamp.
